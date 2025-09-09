@@ -1,4 +1,4 @@
-package org.example.ex001;
+package org.example.ex004;
 
 import java.util.Scanner;
 
